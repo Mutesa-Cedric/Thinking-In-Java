@@ -1,5 +1,5 @@
 public class firstProgram {
-    static  class void printHello(){
+    public static void printHello(String[] args){
         System.out.printLn("hello world|\n");
     }
 }
